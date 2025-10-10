@@ -668,10 +668,41 @@ class Seg_Detection(nn.Module):
     def _create_heads(self, head):
         self.head = self._select_head(head)
 
+
+
+class CSAMNet(nn.Module):
+    def __init__(self,
+                 backbone: str = "unet_32",
+                 neck: str = "fpn+aspp+fuse+drop",
+                 head: str = "fcn",
+                 fusion: str | bool = "glsa6",
+                 input_size: int = 256,
+                 device: str | torch.device | None = None,
+                 eval_mode: bool = False):
+        super().__init__()
+        self.model = Seg_Detection(
+            backbone=backbone,
+            neck=neck,
+            head=head,
+            fusion=fusion,
+            input_size=input_size,
+        )
+        if device is not None:
+            self.model = self.model.to(device)
+        if eval_mode:
+            self.model.eval()
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return self.model(x)
+
+
+
+
+
 if __name__ == "__main__":
     # torch.use_deterministic_algorithms(True)
     device = torch.device('cuda:0')
-    model = Seg_Detection(backbone="unet_32",
+    model = CSAMNet(backbone="unet_32",
                           neck="fpn+aspp+fuse+drop",
                           head="fcn",
                           fusion="glsa6",
