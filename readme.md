@@ -1,6 +1,16 @@
-<h1 align="center">
-  CSAMNet
-</h1>
+<table>
+<tr>
+<td align="left">
+  <h1 style="margin: 0;">
+    <!-- <em>IEEE TMI 2025</em><br> -->
+    CSAMNet: Cross-Scale Attention Modulation for Histopathological Nuclei Segmentation
+  </h1>
+</td>
+<td align="right">
+  <img src="img/CSAMNet_logo.jpg" alt="logo" width="280">
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="img/Fig_Net__CSAMNet.jpg" alt="CSAMNet" width="100%">
