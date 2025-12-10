@@ -108,8 +108,12 @@ For any questions or collaborations, please contact [Jin Huang](mailto:jinhuang@
   <br>
 </p>
 
-<img src="img/Wuhan_university_school_badge.png" alt="Wuhan University Badge" height="50" style="margin-right: 25px;">  <img src="img/Wuhan_university_name.png" alt="Wuhan University Name" height="50" style="margin-right: 25px;">  <img src="img/Wuhan_Integrated_Circuits.png" alt="Wuhan Integrated Circuits" height="50">
-</p>
+<div style="text-align: center;">
+    <img src="img/Wuhan_university_school_badge.png" alt="Wuhan University Badge" height="50" style="margin-right: 25px;">
+    <img src="img/Wuhan_university_name.png" alt="Wuhan University Name" height="50" style="margin-right: 25px;">
+    <img src="img/Wuhan_Integrated_Circuits.png" alt="Wuhan Integrated Circuits" height="50">
+</div>
+
 
 
 ****
