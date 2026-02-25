@@ -5,7 +5,17 @@
     <!-- <em>IEEE TMI 2025</em><br> -->
     CSAMNet: Cross-Scale Attention Modulation for Histopathological Nuclei Segmentation
   </h1>
+  <p align="left">
+  <span style="background-color: #f0f0f0; padding: 5px 12px; border-radius: 8px; font-weight: 600; font-size: 16px;">
+    <img src="https://img.icons8.com/ios-filled/20/000000/code.png" alt="Code Icon" style="vertical-align: middle; margin-right: 5px;">
+    Developed by Wang Shengqian
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios-filled/20/000000/design.png" alt="Design Icon" style="vertical-align: middle; margin-right: 5px;">
+    Designed by Huang Jin
+  </span>
+</p>
 </td>
+
 <td align="right">
   <img src="img/CSAMNet_logo.jpg" alt="logo" width="280">
 </td>
@@ -18,16 +28,15 @@
   <rm>Figure 1: CSAMNet Architecture</rm>
 </p>
 
-**📖Title：** CSAMNet: Cross-Scale Attention Modulation for Histopathological Nuclei Segmentation
-**Developed by Wang Shengqian | Designed by Huang Jin**
-**👨‍💻Author：** Jin Huang · Shengqian Wang · Mengping Long · Taobo Hu · Zhaoyi Ye · Yueyun Weng · Du Wang · Sheng Liu (*Fellow, IEEE*) · Liye Mei · Cheng Lei
+- **📖Title：** CSAMNet: Cross-Scale Attention Modulation for Histopathological Nuclei Segmentation
 
-**📬 Corresponding Authors**
+<!-- - **✨Developed by Wang Shengqian | Designed by Huang Jin** -->
 
-Liye Mei · [liyemei@whu.edu.cn](mailto:liyemei@whu.edu.cn)   | Cheng Lei · [leicheng@whu.edu.cn](mailto:leicheng@whu.edu.cn)  
+- **👨‍💻Author：** Jin Huang · Shengqian Wang · Mengping Long · Taobo Hu · Zhaoyi Ye · Yueyun Weng · Du Wang · Sheng Liu (*Fellow, IEEE*) · Liye Mei · Cheng Lei
 
+- **📬 Corresponding Authors** Liye Mei · [liyemei@whu.edu.cn](mailto:liyemei@whu.edu.cn)   | Cheng Lei · [leicheng@whu.edu.cn](mailto:leicheng@whu.edu.cn)  
 
-**Link：** [![GitHub](https://img.shields.io/badge/GitHub-CSAMNet-black?logo=github)](https://github.com/huangjin520/CSAMNet) [![Paper](https://img.shields.io/badge/Paper-coming%20soon-lightgrey?logo=readthedocs)]() [![Website](https://img.shields.io/badge/Project-Website-blue?logo=google-chrome)](https://www.lei-whu.com)
+- **Link：** [![GitHub](https://img.shields.io/badge/GitHub-CSAMNet-black?logo=github)](https://github.com/huangjin520/CSAMNet) [![Paper](https://img.shields.io/badge/Paper-coming%20soon-lightgrey?logo=readthedocs)]() [![Website](https://img.shields.io/badge/Project-Website-blue?logo=google-chrome)](https://www.lei-whu.com)
 
 
 **📜Abstract:** <p align="justify"> Accurate nuclei segmentation in histopathological images is a fundamental task in computational pathology, enabling downstream applications such as tumor grading, cellular phenotyping, and morphological analysis. However, it remains challenging due to the complex tissue architecture, diverse nuclear morphology, and blurred boundaries. To address these issues, we propose CSAMNet, a framework with four key innovations. First, we introduce the Cross-Scale Attention Modulation (CSAM) mechanism, which bridges the gap between hierarchical semantics and local details via dual-branch attention pathways. Second, we design the Detail-Context Fusion (DCF) block, which captures high-frequency contextual features. Third, we conduct comprehensive evaluations across four imaging modalities and nine datasets, demonstrating robust performance and effective semantic modulation across scales. Fourth, our framework supports full-resolution inference on whole slide images (WSIs), enabling deployment in large-scale clinical scenarios. In summary, our model achieves state-of-the-art accuracy while reducing model complexity and inference time, making it well-suited for both research and clinical applications. The code is available at [CSAMNet](https://github.com/huangjin520/CSAMNet).
