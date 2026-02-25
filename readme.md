@@ -67,8 +67,7 @@ We have evaluated segmentation performance on Four nuclei segmentation datasets:
 Four other modality datasets:
 <div align="center">
 
-<h3>Summary of Datasets Used for Nuclei Segmentation</h3>
-
+Table: Summary of Datasets Used for Nuclei Segmentation
 <table>
   <thead>
     <tr>
