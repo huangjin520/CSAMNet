@@ -19,7 +19,7 @@
     Developed by <a href="mailto:wangshengqian@whu.edu.cn" style="text-decoration: none; color: inherit;">Wang Shengqian</a> 
     &nbsp;&nbsp;|&nbsp;&nbsp; 
     <img src="https://img.icons8.com/ios-filled/20/000000/design.png" alt="Design Icon" style="vertical-align: middle; margin-right: 5px;"> 
-    Designed by <a href="mailto:jinhuang@whu.edu.cn" style="text-decoration: none; color: inherit;">Huang Jin</a> 
+    Designed by <a href="mailto:jinhuang@whu.edu.cn" style="text-decoration: none; color: blue;">Huang Jin</a> 
   </span> 
 </p>
 </td>
