@@ -5,13 +5,22 @@
     <!-- <em>IEEE TMI 2025</em><br> -->
     CSAMNet: Cross-Scale Attention Modulation for Histopathological Nuclei Segmentation
   </h1>
-  <p align="left">
+  <!-- <p align="left">
   <span style="background-color: #f0f0f0; padding: 5px 12px; border-radius: 8px; font-weight: 600; font-size: 16px;">
     <img src="https://img.icons8.com/ios-filled/20/000000/code.png" alt="Code Icon" style="vertical-align: middle; margin-right: 5px;">
     Developed by [Wang Shengqian](mailto:wangshengqian@whu.edu.cn)    &nbsp;&nbsp;|&nbsp;&nbsp;
     <img src="https://img.icons8.com/ios-filled/20/000000/design.png" alt="Design Icon" style="vertical-align: middle; margin-right: 5px;">
     Designed by [Huang Jin](mailto:jinhuang@whu.edu.cn)
   </span>
+</p> -->
+<p align="left"> 
+  <span style="background-color: #f0f0f0; padding: 5px 12px; border-radius: 8px; font-weight: 600; font-size: 16px;"> 
+    <img src="https://img.icons8.com/ios-filled/20/000000/code.png" alt="Code Icon" style="vertical-align: middle; margin-right: 5px;"> 
+    Developed by <a href="mailto:wangshengqian@whu.edu.cn" style="text-decoration: none; color: inherit;">Wang Shengqian</a> 
+    &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <img src="https://img.icons8.com/ios-filled/20/000000/design.png" alt="Design Icon" style="vertical-align: middle; margin-right: 5px;"> 
+    Designed by <a href="mailto:jinhuang@whu.edu.cn" style="text-decoration: none; color: inherit;">Huang Jin</a> 
+  </span> 
 </p>
 </td>
 
