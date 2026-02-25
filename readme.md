@@ -8,10 +8,9 @@
   <p align="left">
   <span style="background-color: #f0f0f0; padding: 5px 12px; border-radius: 8px; font-weight: 600; font-size: 16px;">
     <img src="https://img.icons8.com/ios-filled/20/000000/code.png" alt="Code Icon" style="vertical-align: middle; margin-right: 5px;">
-    Developed by Wang Shengqian
-    &nbsp;&nbsp;|&nbsp;&nbsp;
+    Developed by [Wang Shengqian](mailto:wangshengqian@whu.edu.cn)    &nbsp;&nbsp;|&nbsp;&nbsp;
     <img src="https://img.icons8.com/ios-filled/20/000000/design.png" alt="Design Icon" style="vertical-align: middle; margin-right: 5px;">
-    Designed by Huang Jin
+    Designed by [Huang Jin](mailto:jinhuang@whu.edu.cn)
   </span>
 </p>
 </td>
@@ -35,7 +34,7 @@
 
 - **👨‍💻Author：** Jin Huang · Shengqian Wang · Mengping Long · Taobo Hu · Zhaoyi Ye · Yueyun Weng · Du Wang · Sheng Liu (*Fellow, IEEE*) · Liye Mei · Cheng Lei
 
-- **📬 Corresponding Authors** Liye Mei · [liyemei@whu.edu.cn](mailto:liyemei@whu.edu.cn)   | Cheng Lei · [leicheng@whu.edu.cn](mailto:leicheng@whu.edu.cn)  
+- **📬 Corresponding Authors** Liye Mei · liyemei@whu.edu.cn   | Cheng Lei · leicheng@whu.edu.cn  
 
 - **Link：** [![GitHub](https://img.shields.io/badge/GitHub-CSAMNet-black?logo=github)](https://github.com/huangjin520/CSAMNet) [![Paper](https://img.shields.io/badge/Paper-coming%20soon-lightgrey?logo=readthedocs)]() [![Website](https://img.shields.io/badge/Project-Website-blue?logo=google-chrome)](https://www.lei-whu.com)
 
@@ -182,7 +181,7 @@ Cancer WSIs.</rm>
 </p>
 
 ## 📬 Contact
-For any questions or collaborations, please contact [Jin Huang](mailto:jinhuang@whu.edu.cn), [Shengqian Wang](mailto:sqwang@whu.edu.cn) or open an issue on GitHub.
+For any questions or collaborations, please contact [Jin Huang](mailto:jinhuang@whu.edu.cn), [Shengqian Wang](mailto:wangshengqian@whu.edu.cn) or open an issue on GitHub.
 
 
 <p align="center">
