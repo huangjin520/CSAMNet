@@ -9,10 +9,10 @@
 <p align="left"> 
   <span style="background-color: #f0f0f0; padding: 5px 12px; border-radius: 8px; font-weight: 600; font-size: 16px;"> 
     <img src="https://img.icons8.com/ios-filled/20/000000/code.png" alt="Code Icon" style="vertical-align: middle; margin-right: 5px;"> 
-    Developed by <a href="mailto:wangshengqian@whu.edu.cn" style="text-decoration: none; color: inherit;">Shengqian Wang</a> 
+    Developed by <a href="mailto:wangshengqian@whu.edu.cn" style="text-decoration: none; color: inherit;">Shengqian Wang（王圣乾）</a> 
     &nbsp;&nbsp;|&nbsp;&nbsp; 
     <img src="https://img.icons8.com/ios-filled/20/000000/design.png" alt="Design Icon" style="vertical-align: middle; margin-right: 5px;"> 
-    Designed by <a href="mailto:jinhuang@whu.edu.cn" style="text-decoration: none; color: blue;">Jin Huang</a> 
+    Designed by <a href="mailto:jinhuang@whu.edu.cn" style="text-decoration: none; color: inherit;">Jin Huang（黄金）</a> 
   </span> 
 </p>
 </td>
