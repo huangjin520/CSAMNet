@@ -143,9 +143,15 @@ python train_CSAMNet.py
 The parameters of the model have been carefully designed. 
 CSAMNet - Hardware: an NVIDIA RTX 3090 GPU and an Intel Core i9-10900X CPU.
 <p align="center">
-  <img src="img/Fig_PR_ROC.jpg" alt="CSAMNet" width="100%">
+  <img src="img/Fig_Compare_SOTA_Images.jpg" alt="CSAMNet" width="100%">
   <br>
   <rm>Figure: PR and ROC curves on the MoNuSeg dataset. TPR denotes True Positive Rate; FPR denotes False Positive Rate.</rm>
+</p>
+
+<p align="center">
+  <img src="img/Fig_PR_ROC.jpg" alt="CSAMNet" width="100%">
+  <br>
+  <rm>Figure: Visual comparison of nuclei segmentation at two scales: Patch-based and full image with SOTA methods across four benchmark datasets.</rm>
 </p>
 
 
